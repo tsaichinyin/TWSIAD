@@ -10,3 +10,8 @@ https://github.com/tsaichinyin/TWSIAD/releases/download/M1/Module.1.-.Microsoft.
 
 Module 2 - Microsoft Sustainability Manager Architecture and Technical components(CHT) (Printable).pptx
 https://github.com/tsaichinyin/TWSIAD/releases/download/M2/Module.2.-.Microsoft.Sustainability.Manager.Architecture.and.Technical.components.CHT.Printable.pptx
+
+Sample Data的Azure Storage URL
+Fleet Vehicles Miles Driven Wide World Importers - 2021.xlsx 的連線位置： https://daniel.blob.core.windows.net/share/f.xlsx
+
+Purchased electricity Wide World Importers - 2021.xlsx 的連線位置：https://daniel.blob.core.windows.net/share/p.xlsx
